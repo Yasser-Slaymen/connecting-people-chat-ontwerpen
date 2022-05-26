@@ -1,5 +1,9 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIO
-> ![chat-1](https://user-images.githubusercontent.com/90189815/170385752-48da404a-bcdc-44c1-911c-8ccfc0aa4214.jpg)
+# Chat ontwerpen
+
+![chat-4 copy](https://user-images.githubusercontent.com/90189815/170470967-96428754-a8a1-40c2-9f0e-4bdd2453fbf7.jpg)
+
+
+![chat-1](https://user-images.githubusercontent.com/90189815/170385752-48da404a-bcdc-44c1-911c-8ccfc0aa4214.jpg)
 NS.md](docs/INSTRUCTIONS.md)
 
 # Chat ontwerpen
