@@ -4,7 +4,8 @@
 
 
 ![chat-1](https://user-images.githubusercontent.com/90189815/170385752-48da404a-bcdc-44c1-911c-8ccfc0aa4214.jpg)
-NS.md](docs/INSTRUCTIONS.md)
+
+![chat 5 copy](https://user-images.githubusercontent.com/90189815/170577117-709e397a-0354-4ff6-bb9d-6960c0bd7a8b.jpg)
 
 # Chat ontwerpen
 
